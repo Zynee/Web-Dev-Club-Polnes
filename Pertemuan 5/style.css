@@ -1,0 +1,70 @@
+body {
+    background-color: #a8dda8;
+    font-family: 'tulisan', sans-serif;
+}
+
+@font-face {
+    font-family: tulisan;
+    src: url(Poppins-Regular.ttf);
+}
+
+.content {
+    margin-top: 120px;
+}
+
+.kotak {
+    background-color: tomato;
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 0px 0px orchid;
+}
+
+h2 {
+    text-align: center;
+}
+
+.label {
+    margin-bottom: -20px;
+    font-size: 13pt;
+}
+
+.input {
+    margin-bottom: 10px;
+    width: 100%;
+    border-style: solid;
+    border-color: #2d6187;
+    font-size: 12pt;
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.tombols {
+    margin: auto;
+    width: 50%;
+}
+
+.button {
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 12pt;
+    text-decoration: none;
+}
+
+.daftar {
+    background-color: tomato;
+    border-color: #a8dda8;
+    border-width: 3px;
+    border-style: solid;
+    color: #a8dda8;
+    margin-right: 5px;
+}
+
+.masuk {
+    background-color: #a8dda8;
+    color: tomato;
+    border-color: #a8dda8;
+    border-style: solid;
+}
