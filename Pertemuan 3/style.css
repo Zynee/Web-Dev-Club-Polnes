@@ -1,0 +1,16 @@
+body {
+    background-image: url("img.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+p>b {
+    background-color: tomato;
+}
+.border {
+    border-width: 5px;
+    border-color: teal;
+    border-style: solid;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 20px;
+}

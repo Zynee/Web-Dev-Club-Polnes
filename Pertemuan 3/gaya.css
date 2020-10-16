@@ -1,0 +1,71 @@
+* {
+    font-family: 'Varela Round', sans-serif;
+}
+body {
+    background-color: lightgrey;
+}
+.container {
+    margin: 80px;
+}
+.card {
+    margin: auto;
+    background-color: cadetblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 50%;
+    box-shadow: 5px 5px yellow;
+}
+#card {
+    opacity: 50%;
+}
+.title {
+    text-align: center;
+    font-size: 20pt;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+form {
+    padding-right: 13px;
+}
+input {
+    width: 100%;
+    padding: 7px;
+    border-radius: 5px;
+    border: cadetblue 2px solid;
+    margin: 5px 0px;
+    font-size: 12pt;
+}
+.tombol {
+    font-size: 13pt;
+    width: 100px;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border-style: solid;
+    font-weight: bold;
+}
+.daftar {
+    background-color:transparent;
+    border-color: yellow;
+    color: yellow;
+    margin-bottom: 7px;
+}
+.daftar:hover {
+    background-color: yellow;
+    border-color: yellow;
+    color: cadetblue;
+}
+.login {
+    background-color: yellow;
+    color: cadetblue;
+    border-color: yellow;
+}
+.login:hover {
+    background-color: gold;
+    border-color: gold;
+}
+a:link {
+    text-decoration: none;
+}
+.warna1 {
+    color: yellow
